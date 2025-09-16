@@ -1,0 +1,22 @@
+# NetBeans project-specific files
+nbproject/private/
+nbproject/genfiles.properties
+nbproject/build-impl.xml
+
+# Build output
+build/
+dist/
+
+# Dependency directories (it's better to manage these with a tool like Maven or Gradle)
+# For now, we will commit them, but you can uncomment the line below to ignore them.
+# web/WEB-INF/lib/
+
+# Log files
+*.log
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Compiled class files (if any outside of build folder)
+*.class
