@@ -40,15 +40,14 @@ Before you begin, ensure you have the following installed:
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/your-repository-name.git
-    cd your-repository-name
+    git clone git clone https://github.com/Paul-110/Stock-Market-Prediction-and-Analysis.git
+    cd Stock-Market-Prediction-and-Analysis
     ```
 
 2.  **Database Setup:**
     -   Create a new database (e.g., `stock_predection`).
     -   Import the schema and initial data from the `db.sql` file into your MySQL database.
 
-    > **⚠️ Security Warning:** The `db.sql` file contains plaintext passwords and sample user data. This is a major security risk. For production use, you must handle credentials securely using environment variables or a properties file that is excluded from version control.
 
 3.  **Configure Database Connection:**
     -   Open the `src/java/databaseconnection/databasecon.java` file.
