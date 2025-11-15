@@ -65,8 +65,3 @@ Before you begin, ensure you have the following installed:
 ## Usage
 
 1.  Open your web browser and navigate to `http://localhost:8080/Stock_Market_Predection/` (the final part of the URL may vary depending on the WAR file name).
-2.  You can log in using the credentials for different roles as found in the `db.sql` file:
-    -   **Stock Admin:** `Stock` / `Stock`
-    -   **User:** `venkat` / `venkat`
-    -   **Company:** `venkat` / `venkat`
-    -   **Article Provider:** `timesofindia` / `123`
