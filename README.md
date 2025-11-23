@@ -1,6 +1,15 @@
-# Stock Market Prediction And Analysis
+<div align="center">
+  <h1>Stock Market Prediction And Analysis</h1>
+  <p>
+    This project is a web-based application designed to predict stock market trends by analyzing financial data and non-quantifiable information from news articles. It provides a platform for users, companies, and article providers to interact with stock market data and predictions.
+  </p>
 
-This project is a web-based application designed to predict stock market trends by analyzing financial data and non-quantifiable information from news articles. It provides a platform for users, companies, and article providers to interact with stock market data and predictions.
+  <!-- Live Demo Badge -->
+
+  <a href="https://drive.google.com/file/d/1mI6tovnhbui45VWsoPhzMWLMI-SxUj1c/view?usp=drive_link">
+    <img src="https://img.shields.io/badge/Live_Demo-View_Here-00c49a?style=for-the-badge&logo=vercel" alt="Live Demo" />
+  </a>
+</div>
 
 ## Abstract
 
